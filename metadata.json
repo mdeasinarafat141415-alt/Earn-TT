@@ -1,0 +1,6 @@
+{
+  "name": "TT BOT",
+  "description": "Mobile-first Telegram Mini App featuring TAP token mining, task verification, referral network, wallet withdrawals, and Cloudflare Worker API architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
